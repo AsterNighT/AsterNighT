@@ -1,6 +1,5 @@
 ### Greetings.
-- Working on an internship @ pingcap/chaosmesh
-- Learning k8s and basic programming
+- Writing my thesis.
 - Reach me by mailing, the email address is to the ← left.
 - Willing to embrace the world.
 
